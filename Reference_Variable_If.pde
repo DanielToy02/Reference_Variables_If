@@ -1,4 +1,3 @@
-// add your Reference_Variable_If code here
 float circle1=0;
 float circle2=500;
 float speed1 = 5;
